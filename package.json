@@ -1,0 +1,14 @@
+{
+  "name": "Cititest",
+  "version": "1.0.0",
+  "description": "citi test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jugadordewow",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.2"
+  }
+}
